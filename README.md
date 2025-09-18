@@ -1,5 +1,6 @@
 ## Hi there 👋
 
-- ✍ I’m currently learning HTML/CSS/JavaScript/WordPress/php.
-- 👧 I’m raising two dauters.
+###My skills
+ HTML/CSS/Sass(BEM,FLOCSS)/JavaScript/WordPress/php/theme.json
+
 
